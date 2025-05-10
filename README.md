@@ -55,12 +55,3 @@ Program Options:
 5) End the program
 ```
 
-## 👨‍🏫 Project Author
-
-> Based on the project by **Dr. Mostafa S. Ibrahim**  
-> PhD - Simon Fraser University, Canada  
-> AI & Computer Vision Researcher | Trainer & Coach
-
-## 📜 License
-
-This project is for educational purposes.
